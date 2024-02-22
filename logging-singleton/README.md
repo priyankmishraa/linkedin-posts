@@ -1,0 +1,1 @@
+# Understanding Logging with Singleton Pattern in Python
